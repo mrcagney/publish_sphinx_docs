@@ -1,8 +1,10 @@
 [tool.poetry]
 name = "publish_sphinx_docs"
 version = "1.0.0"
-description = ""
+description = "A simple Python 3.6+ CLI to publish your Sphinx documentation to a Github Pages or Gitlab Pages repository."
 authors = ["Alex Raichev <araichev@mrcagney.com>"]
+readme = "README.rst"
+license = "MIT"
 
 [tool.poetry.dependencies]
 python = "^3.6"
