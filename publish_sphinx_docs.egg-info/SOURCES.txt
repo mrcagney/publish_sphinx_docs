@@ -1,0 +1,10 @@
+README.rst
+setup.py
+publish_sphinx_docs/__init__.py
+publish_sphinx_docs/main.py
+publish_sphinx_docs.egg-info/PKG-INFO
+publish_sphinx_docs.egg-info/SOURCES.txt
+publish_sphinx_docs.egg-info/dependency_links.txt
+publish_sphinx_docs.egg-info/entry_points.txt
+publish_sphinx_docs.egg-info/requires.txt
+publish_sphinx_docs.egg-info/top_level.txt

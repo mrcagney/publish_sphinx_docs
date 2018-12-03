@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "publish_sphinx_docs"
+version = "1.0.0"
+description = ""
+authors = ["Alex Raichev <araichev@mrcagney.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+ghp-import = "^0.5.5"
+click = "^7.0"
+sphinx-click = "^1.4"
+
+[tool.poetry.dev-dependencies]
+pytest = "^3.0"
+sphinx = "^1.8"
+sphinx-click = "^1.4"
+
+[tool.poetry.scripts]
+publish-sphinx-docs = 'publish_sphinx_docs:main.publish'
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
