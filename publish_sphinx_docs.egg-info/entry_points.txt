@@ -1,3 +1,0 @@
-[console_scripts]
-publish-sphinx-docs = publish_sphinx_docs:main.publish
-
