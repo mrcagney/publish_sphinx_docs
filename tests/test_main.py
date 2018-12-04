@@ -1,5 +1,11 @@
-from publish_docs_gitlab import __version__
+import click.testing
+from click.testing import CliRunner
 
+from .context import publish_sphinx_docs
+from publish_sphinx_docs import *
 
-def test_version():
-    assert __version__ == '0.1.0'
+runner = CliRunner()
+
+def test_publish():
+    # Maybe use the mock library here to mock subprocess calls
+    pass

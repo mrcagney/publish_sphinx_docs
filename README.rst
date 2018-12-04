@@ -17,3 +17,16 @@ At the command line, enter ``publish-sphinx-docs --help``.
 Authors
 ========
 - Alex Raichev, 2018-12-03
+
+
+Notes
+=====
+- Experimental, so use at your own risk.
+
+
+Changes
+=======
+
+1.0.0, 2018-12-04
+------------------
+- First release.
