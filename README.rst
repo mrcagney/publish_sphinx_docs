@@ -19,6 +19,11 @@ Authors
 - Alex Raichev, 2018-12-03
 
 
+Documentation
+=============
+On Github Pages `here <https://mrcagney.github.io/publish_sphinx_docs_docs/>`_ and built using this library :-)
+
+
 Notes
 =====
 - Experimental, so use at your own risk.
