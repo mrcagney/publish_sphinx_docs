@@ -32,6 +32,11 @@ Notes
 Changes
 =======
 
+1.0.1, 2019-04-04
+-----------------
+- Removed sphinx-click from dependencies, because it was meant to be a development dependency.
+
+
 1.0.0, 2018-12-04
 ------------------
 - First release.
